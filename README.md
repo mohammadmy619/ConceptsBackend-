@@ -1,5 +1,7 @@
 # ConceptsBackend-
 Concepts related to the development of the Bakand developer
+
+
 ۱. CQRS (Command Query Responsibility Segregation)
 CQRS یک الگوی طراحی است که در آن وظایف مربوط به نوشتن (Command) و خواندن (Query) داده‌ها از یکدیگر جدا می‌شوند. این جداسازی می‌تواند منجر به بهبود عملکرد، مقیاس‌پذیری و انعطاف‌پذیری در سیستم‌های پیچیده شود. سیستم‌ها معمولاً از مدل‌های داده‌ای مختلف برای عملیات نوشتن و خواندن استفاده می‌کنند.
 
